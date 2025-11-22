@@ -1,18 +1,30 @@
-## ICPC Training Problems
-This repository contains my personal training solutions for ICPC-style programming problems, focused on improving my algorithmic thinking, speed, and implementation skills. These exercises support my preparation for competitive programming and complement my Computer Science coursework at Tecnológico de Monterrey.
+## ICPC Problems Repository
+This repository contains my personal collection of ICPC-style programming problems, categorized by topic and including both C++ solutions and notes/explanations for selected problems.
+The goal of this repository is to help me organize my competitive programming preparation and track the problems I’ve solved.
 
-## What’s inside
-* Solutions in Python and C++
-* Problems organized by topic:
-    * Dynamic Programming
-    * Graphs (BFS/DFS, shortest paths, trees)
-    * Greedy Algorithms
-    * Simulation
-    * Math & Number Theory
-* Clean, commented code aimed at clarity and correctness
+## Contents
+Each folder may include:
+* .cpp files — My C++ solutions
+* .md files — Notes, explanations, or problem breakdowns
+* Example inputs / outputs
 
-## Goals of this repository
-* Develop strong foundations in data structures and algorithms
-* Practice solving problems under time constraints
-* Improve implementation skills for competitions such as ICPC
-* Build a visible track record of growth in algorithmic problem-solving
+## Purpose
+This repository serves as:
+* My personal archive of ICPC training problems
+* A way to track my progress and organize solved problems
+* A reference for revisiting concepts like prefix sums, math techniques, geometry formulas, and more
+
+## How to Use
+You can clone the repository:
+
+git clone https://github.com/catherinegonzal/ICPCProblems.git
+Compile any solution:
+
+g++ -std=c++17 file.cpp -o run
+./run
+
+## Status
+This repository is actively updated as I continue solving problems and organizing them into topics.
+
+## Author
+Catherine González Díaz Competitive Programming & ICPC Training GitHub: catherinegonzal
